@@ -1,0 +1,19 @@
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\bin\Debug\yakinlik_sensor.exe.config
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\bin\Debug\yakinlik_sensor.exe
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\bin\Debug\yakinlik_sensor.pdb
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\obj\Debug\yakinlik_sensor.csprojAssemblyReference.cache
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\obj\Debug\yakinlik_sensor.Form1.resources
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\obj\Debug\yakinlik_sensor.Properties.Resources.resources
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\obj\Debug\yakinlik_sensor.csproj.GenerateResource.cache
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\obj\Debug\yakinlik_sensor.exe
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\obj\Debug\yakinlik_sensor.pdb
+C:\Users\ozgur\source\repos\Arduino And C# Proximity Sensor App\yakinlik_sensor\bin\Debug\yakinlik_sensor.exe.config
+C:\Users\ozgur\source\repos\Arduino And C# Proximity Sensor App\yakinlik_sensor\bin\Debug\yakinlik_sensor.exe
+C:\Users\ozgur\source\repos\Arduino And C# Proximity Sensor App\yakinlik_sensor\bin\Debug\yakinlik_sensor.pdb
+C:\Users\ozgur\source\repos\Arduino And C# Proximity Sensor App\yakinlik_sensor\obj\Debug\yakinlik_sensor.csproj.AssemblyReference.cache
+C:\Users\ozgur\source\repos\Arduino And C# Proximity Sensor App\yakinlik_sensor\obj\Debug\yakinlik_sensor.Form1.resources
+C:\Users\ozgur\source\repos\Arduino And C# Proximity Sensor App\yakinlik_sensor\obj\Debug\yakinlik_sensor.Properties.Resources.resources
+C:\Users\ozgur\source\repos\Arduino And C# Proximity Sensor App\yakinlik_sensor\obj\Debug\yakinlik_sensor.csproj.GenerateResource.cache
+C:\Users\ozgur\source\repos\Arduino And C# Proximity Sensor App\yakinlik_sensor\obj\Debug\yakinlik_sensor.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\source\repos\Arduino And C# Proximity Sensor App\yakinlik_sensor\obj\Debug\yakinlik_sensor.exe
+C:\Users\ozgur\source\repos\Arduino And C# Proximity Sensor App\yakinlik_sensor\obj\Debug\yakinlik_sensor.pdb
